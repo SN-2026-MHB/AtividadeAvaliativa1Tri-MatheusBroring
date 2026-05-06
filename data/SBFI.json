@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T23:19:55.797111+00:00",
+  "updated_at": "2026-05-06T23:23:43.337435+00:00",
   "airport_icao": "SBFI",
   "airport_name": "Foz do Iguacu",
   "source": "AviationStack",
@@ -56,7 +56,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "CM3580",
@@ -65,7 +65,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "TP5831",
@@ -74,7 +74,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AV4785",
@@ -83,7 +83,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AC9832",
@@ -92,7 +92,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "UX2307",
@@ -101,7 +101,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:50:00+00:00",
       "time_iso": "2026-05-06T19:48:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "LA3204",
@@ -1246,7 +1246,7 @@
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T10:15:00+00:00",
       "time_iso": "2026-05-06T10:15:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "AV2640",
@@ -1255,7 +1255,7 @@
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T10:15:00+00:00",
       "time_iso": "2026-05-06T10:15:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "TP4224",
@@ -1264,7 +1264,7 @@
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T10:15:00+00:00",
       "time_iso": "2026-05-06T10:15:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "KL9379",
@@ -1273,7 +1273,7 @@
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T10:15:00+00:00",
       "time_iso": "2026-05-06T10:15:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "AD3089",
@@ -1282,7 +1282,7 @@
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T10:15:00+00:00",
       "time_iso": "2026-05-06T10:15:00+00:00",
-      "status": "actual"
+      "status": "em voo"
     },
     {
       "callsign": "G31183",

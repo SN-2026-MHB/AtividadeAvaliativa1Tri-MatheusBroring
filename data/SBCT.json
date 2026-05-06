@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-06T23:19:52.654919+00:00",
+  "updated_at": "2026-05-06T23:23:40.428008+00:00",
   "airport_icao": "SBCT",
   "airport_name": "Curitiba",
   "source": "AviationStack",
@@ -46,7 +46,7 @@
       "airport": "SBGL",
       "airport_name": "Rio de Janeiro / Galeao",
       "scheduled": "2026-05-06T21:05:00+00:00",
-      "time_iso": "2026-05-06T21:05:00+00:00",
+      "time_iso": "2026-05-06T21:16:00+00:00",
       "status": "em voo"
     },
     {
@@ -1003,7 +1003,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "EK3610",
@@ -1012,7 +1012,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "KL9297",
@@ -1021,7 +1021,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "UX2376",
@@ -1030,7 +1030,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "TK8418",
@@ -1039,7 +1039,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AR7533",
@@ -1048,7 +1048,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "ET4115",
@@ -1057,7 +1057,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "CM3525",
@@ -1066,7 +1066,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AV4613",
@@ -1075,7 +1075,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AA7652",
@@ -1084,7 +1084,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "TP4131",
@@ -1093,7 +1093,7 @@
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:05:00+00:00",
       "time_iso": "2026-05-06T19:05:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "LA3885",
@@ -1102,7 +1102,7 @@
       "airport_name": "Sao Paulo / Congonhas",
       "scheduled": "2026-05-06T19:15:00+00:00",
       "time_iso": "2026-05-06T19:15:00+00:00",
-      "status": "em voo"
+      "status": "actual"
     },
     {
       "callsign": "AD2951",
@@ -1119,7 +1119,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1128,7 +1128,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1137,7 +1137,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1146,7 +1146,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1155,7 +1155,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1164,7 +1164,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1173,7 +1173,7 @@
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
       "scheduled": "2026-05-06T19:20:00+00:00",
-      "time_iso": "2026-05-06T19:20:00+00:00",
+      "time_iso": "2026-05-06T19:40:00+00:00",
       "status": "em voo"
     },
     {
