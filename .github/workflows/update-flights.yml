@@ -1,15 +1,14 @@
-  name: Atualizar dados de voos
+name: Atualizar dados de voos
 
 on:
   schedule:
-    # Roda 1x por dia ao meio-dia UTC (plano gratuito: 100 chamadas/mes)
-    # Para mais aeroportos ou frequencia, atualize para um plano pago
     - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
   fetch-and-commit:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
@@ -28,8 +27,6 @@ jobs:
       - name: Buscar dados na AviationStack
         run: python scripts/fetch_flights.py
         env:
-          # Para plano gratuito (100 chamadas/mes): use apenas 1 aeroporto
-          # Para mais aeroportos, atualize o plano em aviationstack.com
           AIRPORTS: ${{ vars.AIRPORTS || 'SBCA,SBCT,SBFI' }}
           AVIATIONSTACK_KEY: ${{ secrets.AVIATIONSTACK_KEY }}
 
