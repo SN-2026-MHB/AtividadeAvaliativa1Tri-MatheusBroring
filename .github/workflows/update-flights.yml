@@ -27,7 +27,7 @@ jobs:
       - name: Buscar dados na AviationStack
         run: python scripts/fetch_flights.py
         env:
-          AIRPORTS: ${{ vars.AIRPORTS || 'SBCA,SBCT,SBFI' }}
+          AIRPORTS: ${{ vars.AIRPORTS || 'SBCA,SBCT,SBFI,SBLO,SBMG' }}
           AVIATIONSTACK_KEY: ${{ secrets.AVIATIONSTACK_KEY }}
 
       - name: Commitar JSONs atualizados
